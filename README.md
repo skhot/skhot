@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @skhot
 
-- 🌱 I’m currently learning ANgular
+- 🌱 I’m currently hacking ANgular
